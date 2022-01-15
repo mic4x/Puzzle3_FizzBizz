@@ -24,3 +24,6 @@ for (i=1; i<= number; i++) { // for i is an variable that is iterated in the loo
 puzzle(200) //passes in 200 for the variable number 
 
 //Final output should only print numbers that arean't divisble my 3 or 5 and print Fizz, Buzz or Fizz Buzz for those that are. 
+
+
+//This the code me and my entire team came up with, however, the comments are solely mine. 
